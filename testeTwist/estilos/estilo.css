@@ -1,0 +1,12 @@
+#container{
+    background-color: aliceblue;
+    font-style: normal;
+
+}
+
+div.caixas{
+    background-color: bisque;
+    height: 100px;
+    width: 100px;
+}
+
